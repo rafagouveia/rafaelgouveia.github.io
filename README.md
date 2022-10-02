@@ -3,15 +3,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael-gomes-gouveia-8a2b624b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafael-gomes-gouveia-8a2b624b" /></a>
+<a href="https://linkedin.com/in/rafael-gomes-gouveia-8a2b624b" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafael-gomes-gouveia-8a2b624b" /></a>
 <a href="https://www.instagram.com/rafael.tsx/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/raitoya" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://discordapp.com/users/Rafael%20Gomes#1324" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discordapp.com/users/Rafael%20Gomes#1324" target="blank">
+<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://github.com/rafagouveia" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://gitlab.com/rafaelgomes" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCFMTdHeB2uaDGqvABK8r3Wg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
